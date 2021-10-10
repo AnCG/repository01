@@ -1,1 +1,1 @@
-print (''I like china'')
+print (''I like shanghai'')
