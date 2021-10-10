@@ -1,1 +1,1 @@
-print (''I like shanghai'')
+print (''I like itcast'')
